@@ -10,7 +10,6 @@
 - [Project Structure & Key Components](#project-structure--key-components)
 - [Installation for Development](#installation-for-development)
 - [Usage Workflow](#usage-workflow)
-- [Future Enhancements](#future-enhancements)
 
 ## About the Project
 Eyedentify is an Android mobile application created as a final project. Its core functionality revolves around visual analysis: taking pictures with the device camera, then processing these images to identify objects and extract text. All analysis results are stored in a cloud database (Firebase Firestore) for historical tracking and can be reviewed in an organized history view. A unique aspect of the app is its ability to vocalize the detected objects and text using Text-to-Speech, aiming to provide an accessible and interactive experience. This project demonstrates integration of camera APIs, cloud services, and external machine learning inference.
