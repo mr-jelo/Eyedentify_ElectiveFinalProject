@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Eyedentify</string>
+
+    <!-- Main Activity -->
+    <string name="scanning_status">Scanning…</string>
+    <string name="camera_ready_status">Point camera at objects or text</string>
+    <string name="scan_button">Scan</string>
+    <string name="history_button">History</string>
+    <string name="permissions_required_title">Permissions Required</string>
+    <string name="permissions_required_message">Camera permission is required for this app to function. Please grant it in settings.</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading_history">Loading history…</string>
+
+    <!-- Results Activity -->
+    <string name="results_title">Scan Results</string>
+    <string name="back">Back</string>  <!-- Updated to match new layout -->
+    <string name="back_button">Back</string>  <!-- Kept for backward compatibility -->
+    <string name="objects_found">Objects found: %1$s</string>
+    <string name="text_found">Text found: %1$s</string>
+    <string name="no_objects_detected">No objects detected</string>
+    <string name="no_text_detected">No text detected</string>
+    <string name="processing_image">Processing image…</string>
+    <string name="error_loading_image">Failed to load image</string>
+    <string name="error_processing_image">Failed to process image: %1$s</string>
+    <string name="analyzing_image">Analyzing image...</string>
+    <string name="analysis_complete">Analysis complete</string>
+    <string name="analysis_error">Analysis failed</string>
+
+    <!-- History Items -->
+    <string name="history_date_format">MMM dd, yyyy HH:mm</string>
+    <string name="no_results">No results</string>
+    <string name="text_label">Text: %1$s</string>
+    <string name="objects_label">Objects: %1$s</string>
+    <string name="error_loading_history">Error loading history</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clear_history_confirmation_title">Clear History</string>
+    <string name="clear_history_confirmation_message">Are you sure you want to clear all scan history?</string>
+    <string name="clear">Clear</string>
+    <string name="history_cleared">History cleared</string>
+    <string name="close">Close</string>
+    <string name="history_title">Scan History</string>
+
+    <!-- Error Messages -->
+    <string name="error_camera_init">Failed to initialize camera</string>
+    <string name="error_permission_denied">Camera permission denied</string>
+    <string name="error_generic">Something went wrong</string>
+
+    <!-- Content Descriptions -->
+    <string name="app_logo">App logo</string>  <!-- Added for toolbar logo -->
+    <string name="captured_image">Captured image</string>  <!-- Updated to match new layout -->
+    <string name="scan_history_image">Scan history image</string>  <!-- Added for history items -->
+    <string name="desc_captured_image">Captured image</string>  <!-- Kept for backward compatibility -->
+    <string name="desc_history_image">History image</string>  <!-- Kept for backward compatibility -->
+    <string name="desc_back_button">Back button</string>
+    <string name="desc_history_button">History button</string>
+    <string name="desc_scan_button">Scan button</string>
+</resources>

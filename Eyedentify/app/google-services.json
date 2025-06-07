@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270023036321",
+    "project_id": "eyedentify-12401",
+    "storage_bucket": "eyedentify-12401.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270023036321:android:913e954fdb925f50524fe0",
+        "android_client_info": {
+          "package_name": "com.finals.eyedentify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnZdUWGAcorv0LFIygRShespii9dmaD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270023036321:android:75c66f30464d6c15524fe0",
+        "android_client_info": {
+          "package_name": "com.logronio.eyedentify_mobapp_finals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnZdUWGAcorv0LFIygRShespii9dmaD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
